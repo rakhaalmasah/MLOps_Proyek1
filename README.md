@@ -1,11 +1,7 @@
----
-
 # Submission 1: Prediksi Indeks Nasdaq
 
 **Nama:** Muhammad Rakha Almasah  
 **Username Dicoding:** muhrakhaal  
-
----
 
 ## **Deskripsi Proyek**  
 Proyek ini bertujuan untuk memprediksi nilai **Indeks Nasdaq (IXIC)** berdasarkan data harga saham dari beberapa perusahaan besar seperti **Apple (AAPL)**, **Microsoft (MSFT)**, **Amazon (AMZN)**, dan **Berkshire Hathaway (BRK_B)**. Pipeline ini dibangun menggunakan **TensorFlow Extended (TFX)** dan hasil model diterapkan melalui **Flask API** yang diakses menggunakan **Ngrok**.
